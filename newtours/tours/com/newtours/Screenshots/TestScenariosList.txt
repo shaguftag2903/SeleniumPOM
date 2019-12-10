@@ -1,0 +1,8 @@
+Open the Browser
+Enter the URL
+
+Login to NewTours with Invalid Credentials
+Login to NewTours with Valid Credentials
+Register New User
+Search for Flight Tickets
+Book tickets
